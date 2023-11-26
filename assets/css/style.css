@@ -117,3 +117,24 @@ body{
 .input-box input::placeholder{
     color: #000000be;
 }
+
+.gender-group{
+    display: flexbox;
+    justify-content: space-between;
+    margin-top: 0.65rem;
+    padding: 0 0.5rem;
+}
+.gender.inputs{
+    display: flex;
+    align-items: center;
+}
+
+.gender-input input{
+    margin-right: 0.35rem;
+}
+
+.gender-input label{
+    font-size: 0.81rem;
+    font-weight: 600;
+    color: #000000c0;
+}
