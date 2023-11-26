@@ -54,6 +54,8 @@ body{
     align-items: center;
 }
 .login-button button{
+    width: 150px;
+    height: 40px;
     border: none;
     background-color: #6c63ff;
     padding: 0.4rem 1rem;
