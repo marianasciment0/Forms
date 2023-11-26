@@ -113,3 +113,7 @@ body{
     font-weight: 600;
     color: #000000c0;
 }
+
+.input-box input::placeholder{
+    color: #000000be;
+}
